@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\bin\Debug\firstMajorProgrammingProject.exe.config
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\bin\Debug\firstMajorProgrammingProject.exe
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\bin\Debug\firstMajorProgrammingProject.pdb
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\bin\Debug\firstMajorProgrammingProject.xml
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\obj\Debug\firstMajorProgrammingProject.vbprojAssemblyReference.cache
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\obj\Debug\firstMajorProgrammingProject.Resources.resources
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\obj\Debug\firstMajorProgrammingProject.universityAdmissionsPointSystem.resources
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\obj\Debug\firstMajorProgrammingProject.vbproj.GenerateResource.cache
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\obj\Debug\firstMajorProgrammingProject.exe
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\obj\Debug\firstMajorProgrammingProject.xml
+C:\Users\Owner\source\repos\firstMajorProgrammingProject\obj\Debug\firstMajorProgrammingProject.pdb

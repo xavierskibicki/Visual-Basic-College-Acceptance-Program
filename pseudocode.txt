@@ -1,0 +1,9 @@
+Get the GPA input from user via a text box, and determine if it is a number that is between 2.0 and 4.0. If it is not, prompt them to correctly enter the GPA by using a Message Box. Once the user correctly enters the GPA, get the score that the GPA gives by multiplying the GPA by 20, and show it when they leave the field in another text box. Also make sure that the user does not get prompted to correctly enter in a GPA if the field is left blank, otherwise the user will be prompted when they are trying to fix their previous error.
+
+Next, the user will have to click on radio buttons to select which scores the student set for the SAT, as well as the quality of their high school, and the difficulty of it's curriculum.
+
+After the user finishes selecting the options from the top half of the program, they will have to select different radio buttons and check boxes for the student's geography, their Alumni, their Essay quality, their leadership and services, and other miscellaneous options.
+
+Once the user selects what qualities the student has, they will click the Calculate Total Score button. Before the program adds up all the points based on what the user selected, it will check to make sure that the GPA was entered. If the GPA was correctly entered, the program will first add up the top half, and then proceed with the bottom half.
+
+When this operation is complete, it will display the total score. If the score it above or equal to 100, it will also display that the student is admitted. If the score is below 100, it will display that the student is denied.
